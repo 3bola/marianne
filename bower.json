@@ -1,0 +1,7 @@
+{
+  "name": "marianne",
+  "dependencies": {
+    "jquery": "1.11.0",
+    "handlebars": "*"
+  }
+}
